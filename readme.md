@@ -26,8 +26,9 @@ A **smart, AI-assisted Todo List** that helps you manage your daily tasks by aut
 
 ## 🚀 How to Start the Project
 
-### 1️⃣ Start the Backend
+### Checkout to the develop branch and clone the project
 
+### 1️⃣ Start the Backend
 **Go to the backend folder:**
 
 ```bash
